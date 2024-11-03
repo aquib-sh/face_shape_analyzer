@@ -1,0 +1,133 @@
+{
+        "Round": {
+            "best_styles": [
+                "Rectangle/Square frames",
+                "Geometric frames",
+                "Wayfarers",
+                "Angular frames",
+                "D-frame sunglasses"
+            ],
+            "avoid": [
+                "Round frames",
+                "Small frames",
+                "Oversized circular frames",
+                "Frames with curved edges"
+            ],
+            "features_to_look_for": [
+                "Strong bridge",
+                "Angular design",
+                "Upswept corners",
+                "High temple placement"
+            ],
+            "why": "Angular frames help balance the soft features of a round face and can make it appear longer and thinner."
+        },
+        "Square": {
+            "best_styles": [
+                "Round frames",
+                "Oval frames",
+                "Aviators",
+                "Rimless frames",
+                "Semi-rimless frames"
+            ],
+            "avoid": [
+                "Square frames",
+                "Angular frames",
+                "Geometric shapes",
+                "Thick frames"
+            ],
+            "features_to_look_for": [
+                "Thin frames",
+                "Curved design",
+                "Rounded edges",
+                "Medium to large size"
+            ],
+            "why": "Rounded frames help soften angular features and provide contrast to a square jaw."
+        },
+        "Oval": {
+            "best_styles": [
+                "Rectangle frames",
+                "Square frames",
+                "Geometric frames",
+                "Wayfarers",
+                "Cat-eye frames"
+            ],
+            "avoid": [
+                "Oversized frames",
+                "Very narrow frames",
+                "Unbalanced designs"
+            ],
+            "features_to_look_for": [
+                "Balanced proportions",
+                "Width equal to widest part of face",
+                "Strong bridge",
+                "Defined angles"
+            ],
+            "why": "Oval faces can wear most styles, but geometric frames enhance natural balance."
+        },
+        "Heart": {
+            "best_styles": [
+                "Round frames",
+                "Oval frames",
+                "Light-colored frames",
+                "Bottom-heavy frames",
+                "Aviators"
+            ],
+            "avoid": [
+                "Top-heavy designs",
+                "Decorative temples",
+                "Bright colors at the top",
+                "Oversized frames"
+            ],
+            "features_to_look_for": [
+                "Thin frames",
+                "Light colors",
+                "Width equal to jaw",
+                "Bottom-weighted design"
+            ],
+            "why": "Frames that balance a broader forehead and narrow chin are ideal."
+        },
+        "Diamond": {
+            "best_styles": [
+                "Cat-eye frames",
+                "Oval frames",
+                "Rimless frames",
+                "Upswept styles",
+                "Geometric frames"
+            ],
+            "avoid": [
+                "Narrow frames",
+                "Heavy brow lines",
+                "Very angular styles",
+                "Narrow bridges"
+            ],
+            "features_to_look_for": [
+                "Width equal to cheekbones",
+                "Upswept design",
+                "Distinctive brow line",
+                "Detail at temples"
+            ],
+            "why": "Frames should highlight cheekbones while softening angular features."
+        },
+        "Rectangle": {
+            "best_styles": [
+                "Round frames",
+                "Square frames with curved edges",
+                "Oversized frames",
+                "Decorative styles",
+                "Bold frames"
+            ],
+            "avoid": [
+                "Very small frames",
+                "Narrow rectangular frames",
+                "Low-sitting frames",
+                "Rimless styles"
+            ],
+            "features_to_look_for": [
+                "Contrasting width",
+                "Deep colors",
+                "Decorative elements",
+                "Strong brow line"
+            ],
+            "why": "Frames should add width and break up the length of the face."
+        }
+    }

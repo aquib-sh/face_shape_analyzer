@@ -42,11 +42,16 @@ mv shape_predictor_68_face_landmarks.dat tools/shape_predictor_68_face_landmarks
 ## Usage
 
 ```python
-# Basic face shape analysis
-result = get_face_shape_and_recommendations('path_to_your_photo.jpg')
+from face_detect import *
 
-# Get human-readable output
-formatted_data, readable_output = analyze_face_with_readable_output('path_to_your_photo.jpg')
+raw_result = get_face_shape_and_recommendations("passport_size_photo.jpg")
+
+# Format the results
+formatted_result = format_measurements_for_humans(raw_result)
+    
+# Create readable output
+readable_output = format_output_nicely(formatted_result)
+
 print(readable_output)
 ```
 
